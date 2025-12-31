@@ -1,0 +1,4 @@
+ColMarkerFix/build/
+ColMarkerFix/.xmake
+ColMarkerFix/.cache
+ColMarkerFix/compile_commands.json
